@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Webshop</string>
+    <string name="please_log_in">Please Log in</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="banner">Banner</string>
+    <string name="search">Search</string>
+    <string name="enter_product">Enter Product</string>
+    <string name="enter_product_name">Enter Product Name</string>
+    <string name="search2">Search</string>
+    <string name="search_text">Search Text</string>
+    <string name="enter_order_number">Enter Order Number</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="refresh">refresh</string>
+    <string name="customer">Customer</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="get_results">Get Results</string>
+</resources>
